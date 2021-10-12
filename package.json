@@ -1,0 +1,19 @@
+{
+    "name": "particle-node-cli-helper",
+    "version": "0.0.1",
+    "description": "node.js script for moving Particle devices between sandbox and products",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rickkas7/particle-node-cli-helper.git"
+    },
+    "author": "rickkas7@rickkas7.com",
+    "contributors": [],
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.22.0"
+    },
+    "engines": {
+        "node": ">=12.14.0"
+    }
+}
